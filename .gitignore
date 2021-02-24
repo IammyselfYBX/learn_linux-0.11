@@ -1,0 +1,8 @@
+*.[ao]
+*~
+*#
+*swp
+*out
+/comment
+/tags
+/.ccls-cache/
